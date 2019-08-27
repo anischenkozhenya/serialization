@@ -1,0 +1,7 @@
+E:\Сериализация\Serialization\Task1\bin\Debug\Task1.exe.config
+E:\Сериализация\Serialization\Task1\bin\Debug\Task1.exe
+E:\Сериализация\Serialization\Task1\bin\Debug\Task1.pdb
+E:\Сериализация\Serialization\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Сериализация\Serialization\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Сериализация\Serialization\Task1\obj\Debug\Task1.exe
+E:\Сериализация\Serialization\Task1\obj\Debug\Task1.pdb
