@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Serialization;
 
 namespace Task1
@@ -10,22 +6,35 @@ namespace Task1
     [Serializable]
     public class MyClass
     {
-        string str;
+        /// <summary>
+        /// Закрытое строковое поле
+        /// </summary>
+        string fieldString;
+        /// <summary>
+        /// Открытое целочисленное поле
+        /// </summary>
         [XmlElement(ElementName = "Числовое поле")]
-        public int i;
+        public int fieldInt;
+        /// <summary>
+        /// Открытое строковое свойство
+        /// </summary>
         [XmlElement(ElementName = "Строковое поле")]
-        public string Str
+        public string propertyString
         {
-            get { return str; }
-            set { str = value; }
+            get { return fieldString; }
+            set { fieldString = value; }
         }
+        //Открытый конструктор без параметров
         public MyClass()
         {
 
         }
+        /// <summary>
+        /// Открытый метод ничего не возвращает выводит значения полей объекта
+        /// </summary>
         public void Method()
         {
-            Console.WriteLine(i + str);
+            Console.WriteLine("Значение целочисленного поля: "+fieldInt + "  строкового поля: " + fieldString);
         }
     }
 }
