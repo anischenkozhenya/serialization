@@ -2,3 +2,5 @@
 .vs/Serialization/v16/.suo
 .vs/Serialization/v16/Server/sqlite3/db.lock
 .vs/Serialization/v16/Server/sqlite3/storage.ide
+.vs/Serialization/v16/Server/sqlite3/storage.ide-shm
+.vs/Serialization/v16/Server/sqlite3/storage.ide-wal
