@@ -1,0 +1,11 @@
+E:\Сериализация\Serialization\Task3\bin\Debug\Task3.exe.config
+E:\Сериализация\Serialization\Task3\bin\Debug\Task3.exe
+E:\Сериализация\Serialization\Task3\bin\Debug\Task3.pdb
+E:\Сериализация\Serialization\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\Сериализация\Serialization\Task3\obj\Debug\Task3.exe
+E:\Сериализация\Serialization\Task3\obj\Debug\Task3.pdb
+E:\Сериализация\Serialization\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+E:\Сериализация\Serialization\Task3\bin\Debug\Task2.exe
+E:\Сериализация\Serialization\Task3\bin\Debug\Task2.pdb
+E:\Сериализация\Serialization\Task3\bin\Debug\Task2.exe.config
+E:\Сериализация\Serialization\Task3\obj\Debug\Task3.csproj.CopyComplete
